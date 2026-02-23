@@ -18,5 +18,5 @@ Explainable AI (SHAP) is applied to interpret feature importance and interaction
 
 ## How to Run
 1. Install dependencies: `pip install -r requirements.txt`
-2. Launch Jupyter Notebook: `jupyter notebook notebook.ipynb`
+2. Launch Jupyter Notebook: `NextGen_Datascienceproject1.ipynb` and download `loan_data.csv`
 3. Run cells sequentially to reproduce results.
